@@ -4,4 +4,6 @@ This is a simple readme file
 
 ## Heading 2
 
-Jsut some updates
+Just some updates, on a branch
+
+Some more updates
